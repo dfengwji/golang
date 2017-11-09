@@ -4,11 +4,12 @@ package main
 import (
 	"fmt"
 	one "step"
+	"time"
 )
 
 func main() {
-	one.StudyGoroutine()
-
+	one.StudyControl()
+	time.Sleep(5 * time.Second)
 }
 
 func testIf() {
