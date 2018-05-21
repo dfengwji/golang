@@ -2,3 +2,8 @@ Study/bin/
 Study/pkg/
 Study/src/github.com/
 release
+bin/
+pkg/
+*.log
+.idea/
+github.com/swaggo/gin-swagger/
